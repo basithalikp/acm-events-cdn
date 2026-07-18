@@ -368,6 +368,26 @@
       "photos": [
         "https://ik.imagekit.io/acmnssce/acm/events/CodeFront/codeFrontPoster.jpg"
       ]
+    },
+    {
+      "id" : "poster-design",
+      "title": "Poster Design Competition",
+      "date": "This week!",
+      "description": "Stay Tuned!",
+      "image" : "https://ik.imagekit.io/acmnssce/acm/events/PosterDesign/posterDesign",
+      "photos" : [
+        "https://ik.imagekit.io/acmnssce/acm/events/PosterDesign/posterDesign"
+      ]
+    },
+    {
+      "id" : "innovation-auction",
+      "title" : "Gamble and Larp",
+      "date" : "Coming soon!",
+      "description" : "ACM NSSCE's first non technical event!",
+      "image" : "https://ik.imagekit.io/acmnssce/acm/events/InnovationAuction/InnovationAuction",
+      "photos" : [
+        "https://ik.imagekit.io/acmnssce/acm/events/InnovationAuction/InnovationAuction"
+      ]
     }
   ],
   "topHighlight": {
