@@ -15,7 +15,7 @@
     },
     "vision": "Our vision is to build a vibrant and collaborative community where tech enthusiasts unite to innovate, develop their expertise, and promote a culture of ongoing learning and teamwork.",
     "mission": "Connecting academia with industry, our platform acts as a center for knowledge-sharing, collaboration, and innovation. We enable individuals to effectively integrate theoretical learning with real-world practice.",
-    "siteUrl": "https://nssce.acm.org",
+    "siteUrl": "https://acm.nssce.org",
     "ogImage": "https://ik.imagekit.io/acmnssce/acm/og-image.png",
     "twitterHandle": "@acmnssce",
     "locale": "en_IN",
@@ -127,6 +127,17 @@
       "socials": {
         "linkedin": "http://www.linkedin.com/in/rida-kareem",
         "github": "https://github.com/ridakareem"
+      }
+    },
+    {
+      "id": "krishnapriya-km",
+      "name": "Krishnapriya KM",
+      "role": "Tech Member",
+      "category": "Tech Team",
+      "image": "https://ik.imagekit.io/acmnssce/acm/members/krishnapriya.jpeg",
+      "socials": {
+        "linkedin": "https://www.linkedin.com/in/krishnapriya-k-m-7b7a52334?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+        "github": "https://github.com/KrishnapriyaKM05"
       }
     },
     {
@@ -286,6 +297,50 @@
   ],
   "pastEvents": [
     {
+      "id": "docker-workshop",
+      "title": "Docker 101",
+      "date": "29 July, 2026",
+      "description": "Learn the basics of Docker and containerization, and deploy your first self hosted application!",
+      "image": "https://ik.imagekit.io/acmnssce/acm/events/DockerWorkshop/docker_extended.png"
+    },
+    {
+      "id": "github-workshop",
+      "title": "Git and Github Workshop",
+      "date": "24 July, 2026",
+      "description": "From basics of Git to hosting a website on Github!",
+      "image": "https://ik.imagekit.io/acmnssce/acm/events/GithubWorkshop/IMG-20260618-WA0033.jpg",
+      "photos": [
+        "https://ik.imagekit.io/acmnssce/acm/events/GithubWorkshop/1782307562940.jpg",
+        "https://ik.imagekit.io/acmnssce/acm/events/GithubWorkshop/1782307563239.jpg",
+        "https://ik.imagekit.io/acmnssce/acm/events/GithubWorkshop/1782307563319.jpg"
+      ]
+    },
+    {
+      "id": "intro-to-django",
+      "title": "PyWars - Flagship python coding challenge",
+      "date": "Feb 21, 2026",
+      "description": "Coding competition based on S1 Algorithmic Thinking with Python, exclusively for first years!",
+      "image": "https://ik.imagekit.io/acmnssce/acm/events/PyWars/PyWars.jpeg",
+      "photos": [
+        "https://ik.imagekit.io/acmnssce/acm/events/PyWars/pywars/pywars1.jpeg",
+        "https://ik.imagekit.io/acmnssce/acm/events/PyWars/pywars/pywars6.jpeg",
+        "https://ik.imagekit.io/acmnssce/acm/events/PyWars/pywars/pywars3.jpeg",
+        "https://ik.imagekit.io/acmnssce/acm/events/PyWars/pywars/pywars4.jpeg",
+        "https://ik.imagekit.io/acmnssce/acm/events/PyWars/pywars/pywars2.jpeg",
+        "https://ik.imagekit.io/acmnssce/acm/events/PyWars/pywars/pywars5.jpeg"
+      ]
+    },
+    {
+      "id": "ai-prompt-security-esp",
+      "title": "AI Prompt Security - ACM India Eminent Speaker Program",
+      "date": "Feb 10, 2026",
+      "description": "Kaarthik Sivakumar - Principal Engineer at Cisco,Inc Join us on an Expert talk on AI prompt security via ACM India Eminent Speaker Program",
+      "image": "https://ik.imagekit.io/acmnssce/acm/events/AIPrompt-ESP/AIPrompt-ESP.jpg",
+      "photos": [
+        "https://ik.imagekit.io/acmnssce/acm/events/AIPrompt-ESP/AIPrompt-ESP.jpg"
+      ]
+    },
+    {
       "id": "ai-ml-workshop",
       "title": "Inaugration & Talk on AI",
       "date": "Jan 08, 2026",
@@ -304,42 +359,30 @@
   ],
   "futureEvents": [
     {
-      "id": "intro-to-django",
-      "title": "PyWars - Flagship python coding challenge",
-      "date": "Feb 21, 2026",
-      "description": "Coding competition based on S1 Algorithmic Thinking with Python, exclusively for first years!",
-      "image": "https://ik.imagekit.io/acmnssce/acm/events/PyWars/PyWars.jpeg",
+      "id": "code-front",
+      "title": "CodeFront - 2 v 2 Coding Competition",
+      "date": "Jul 22, 2026",
+      "description": "A tournament style 2 v 2 coding competition for all of you",
+      "image": "https://ik.imagekit.io/acmnssce/acm/events/CodeFront/codeFront.jpg",
+      "registerUrl": "https://tally.so/r/jaYdeY",
       "photos": [
-        "https://ik.imagekit.io/acmnssce/acm/events/PyWars/2026-01-18-121517_hyprshot.png",
-        "https://ik.imagekit.io/acmnssce/acm/events/PyWars/2026-01-18-121527_hyprshot.png"
-      ]
-    },
-    {
-      "id": "ai-prompt-security-esp",
-      "title": "AI Prompt Security - ACM India Eminent Speaker Program",
-      "date":"Feb 10, 2026",
-      "description": "Kaarthik Sivakumar - Principal Engineer at Cisco,Inc Join us on an Expert talk on AI prompt security via ACM India Eminent Speaker Program",
-      "image":"https://ik.imagekit.io/acmnssce/acm/events/AIPrompt-ESP/AIPrompt-ESP.jpg",
-      "photos": [
-        "https://ik.imagekit.io/acmnssce/acm/events/AIPrompt-ESP/AIPrompt-ESP.jpg"
+        "https://ik.imagekit.io/acmnssce/acm/events/CodeFront/codeFrontPoster.jpg"
       ]
     }
   ],
   "topHighlight": {
-    "id": "ai-ml-workshop",
-    "title": "Inaugration & Talk on AI",
-    "date": "Jan 08, 2026",
-    "description": "The Future of AI : Knowledge, skills and employability",
-    "image": "https://ik.imagekit.io/acmnssce/acm/events/AIandML.jpg",
+    "id": "intro-to-django",
+    "title": "PyWars - Flagship python coding challenge",
+    "date": "Feb 21, 2026",
+    "description": "Coding competition based on S1 Algorithmic Thinking with Python, exclusively for first years!",
+    "image": "https://ik.imagekit.io/acmnssce/acm/events/PyWars/PyWars.jpeg",
     "photos": [
-      "https://ik.imagekit.io/acmnssce/acm/events/AIandML/AIandML1.jpg",
-      "https://ik.imagekit.io/acmnssce/acm/events/AIandML/AIandML2.jpg",
-      "https://ik.imagekit.io/acmnssce/acm/events/AIandML/AIandML3.jpg",
-      "https://ik.imagekit.io/acmnssce/acm/events/AIandML/AIandML4.jpg",
-      "https://ik.imagekit.io/acmnssce/acm/events/AIandML/AIandML5.jpeg",
-      "https://ik.imagekit.io/acmnssce/acm/events/AIandML/AIandML6.jpeg",
-      "https://ik.imagekit.io/acmnssce/acm/events/AIandML/AIandML7.jpeg"
+      "https://ik.imagekit.io/acmnssce/acm/events/PyWars/pywars/pywars1.jpeg",
+      "https://ik.imagekit.io/acmnssce/acm/events/PyWars/pywars/pywars6.jpeg",
+      "https://ik.imagekit.io/acmnssce/acm/events/PyWars/pywars/pywars3.jpeg",
+      "https://ik.imagekit.io/acmnssce/acm/events/PyWars/pywars/pywars4.jpeg",
+      "https://ik.imagekit.io/acmnssce/acm/events/PyWars/pywars/pywars2.jpeg",
+      "https://ik.imagekit.io/acmnssce/acm/events/PyWars/pywars/pywars5.jpeg"
     ]
   }
 }
-
