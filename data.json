@@ -394,6 +394,16 @@
       "photos" : [
         "https://ik.imagekit.io/acmnssce/acm/events/InnovationAuction/InnovationAuction"
       ]
+    },
+    {
+      "id" : "ai-llm-esp",
+      "title" : "New Computing Paradigms for LLMs - ACM India Eminent Speaker Program",
+      "date" : "Coming soon!",
+      "description" : "Join us for an expert talk on New Computing Paradigms for LLMs via ACM India Eminent Speaker Program!",
+      "image" : "https://ik.imagekit.io/acmnssce/acm/events/LLMParadigms-EspTalk/LLMParadigmEsp",
+      "photos" :[
+        "https://ik.imagekit.io/acmnssce/acm/events/LLMParadigms-EspTalk/LLMParadigmEsp"
+      ]
     }
   ],
   "topHighlight": {
