@@ -301,7 +301,13 @@
       "title": "Docker 101",
       "date": "29 July, 2026",
       "description": "Learn the basics of Docker and containerization, and deploy your first self hosted application!",
-      "image": "https://ik.imagekit.io/acmnssce/acm/events/DockerWorkshop/docker_extended.png"
+      "image": "https://ik.imagekit.io/acmnssce/acm/events/DockerWorkshop/docker_extended.png",
+      "photos" : [
+        "https://ik.imagekit.io/acmnssce/acm/events/DockerWorkshop/IMG-20260625-WA0109.jpg?updatedAt=1782659378942",
+        "https://ik.imagekit.io/acmnssce/acm/events/DockerWorkshop/Docker101Screenshot.jpg",
+        "https://ik.imagekit.io/acmnssce/acm/events/DockerWorkshop/Docker101Screenshot1.jpg",
+        "https://ik.imagekit.io/acmnssce/acm/events/DockerWorkshop/IMG-20260626-WA0019.jpg?updatedAt=1782659378822"
+      ]
     },
     {
       "id": "github-workshop",
